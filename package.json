@@ -1,0 +1,32 @@
+{
+	"name": "teable-to-json",
+	"version": "1.0.0",
+	"description": "Export Teable base to a JSON file to use it as a CMS",
+	"main": "index.js",
+	"bin": {
+		"teable": "index.js",
+		"teablejson": "index.js"
+	},
+	"keywords": [
+		"teable",
+		"cms",
+		"tui"
+	],
+	"author": "JohanStickman",
+	"license": "MIT",
+	"dependencies": {
+		"boxen": "5.1.2",
+		"chalk": "^4.1.2",
+		"inquirer": "^8.2.6",
+		"node-notifier": "10.0.0",
+		"ora": "5.4.1",
+		"update-notifier": "5.1.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/johan-perso/teable-to-json.git"
+	},
+	"devDependencies": {
+		"eslint": "^8.56.0"
+	}
+}
