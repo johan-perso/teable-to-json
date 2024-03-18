@@ -4,8 +4,8 @@
 
 Un CLI conçu pour exporter une ou plusieurs tables d'une base Teable vers un fichier JSON, pour l'utiliser dans un projet comme si c'était un CMS.
 
+https://github.com/johan-perso/teable-to-json/assets/41506568/d5cf0847-fdbd-4397-87ba-1cae05907482
 
-<!-- TODO: video -->
 
 ## Installation
 
